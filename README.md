@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Arshad%20Khan&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
-<!-- ⚡ Typing Animation -->
+<!-- ⚡ Typing Animtion -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Arshad+Khan;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Cloud;Building+Scalable+Applications;Future+Software+Engineer+🚀" />
 </p>
