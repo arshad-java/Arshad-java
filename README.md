@@ -56,7 +56,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 - 🔄 CI/CD Pipelines
 - 🐳 Docker (Learning & Implementing)
 - 📦 Microservices Architecture
-- 📜 (Add Certifications if any)
+- 
 
 ---
 
