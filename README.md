@@ -108,7 +108,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
   <a href="https://instagram.com/its._.arshad07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arshadkhan93">
+  <a href="https://www.linkedin.com/in/Arshad-java">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arshadkhan10062005@gmail.com">
