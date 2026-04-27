@@ -81,7 +81,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arshadkhan93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshadkhan93&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshad-java&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshadkhan93&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-java&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Arshadkhan93/Arshadkhan93/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Arshadkhan93/Arshad-java/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
