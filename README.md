@@ -97,7 +97,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Arshadkhan93/Arshad-java/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Arshad-java/Arshad-java/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
