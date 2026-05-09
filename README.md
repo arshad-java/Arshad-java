@@ -46,7 +46,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 - 💡 Practicing System Design & Advanced DSA
 - 🎯 Preparing for Product-Based Companies
 
-(Add your LeetCode/CodeChef links if available)
+
 
 ---
 
